@@ -1,7 +1,8 @@
 {
   "name": "jquery",
-  "version": "1.8.2",
-  "description": "Expose global jQuery for component framework",
+  "repo": "pirxpilot/jquery",
+  "version": "0.0.1",
+  "description": "Alternative to component-jquery - use if jquery is already loaded from CDN",
   "keywords": [
     "jquery",
     "component"
@@ -9,5 +10,5 @@
   "scripts": [
     "index.js"
   ],
-  "license": "MIT",
+  "license": "MIT"
 }
