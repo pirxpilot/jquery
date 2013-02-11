@@ -5,11 +5,12 @@
 
 ## Installation
 
-    $ component install code42day/jquery
+    $ component install pirxpilot/jquery
 
-## API
+To replace component/jquery as a dependency host in a private component
+repository.  Add 'remote' array to component defintion so that this version of
+jquery gets downloaded before full component/jquery.
 
-   
 
 ## License
 
